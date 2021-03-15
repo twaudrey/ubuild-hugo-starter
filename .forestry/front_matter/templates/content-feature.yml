@@ -31,5 +31,3 @@ fields:
     - Right
   label: Media Alignment
   default: Right
-pages:
-- content/test1.md
