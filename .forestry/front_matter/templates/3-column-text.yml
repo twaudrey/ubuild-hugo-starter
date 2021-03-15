@@ -31,3 +31,5 @@ fields:
     name: column
     label: Column
     template: text-column
+pages:
+- content/test page 1.md
