@@ -1,11 +1,11 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/screen-shot-2021-02-24-at-8-41-18-pm.png"
   navigation:
   - link_url: "/"
     link_text: Home
